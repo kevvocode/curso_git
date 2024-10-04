@@ -4,7 +4,7 @@ body {
 }
 
 .container_index {
-    height: 600px;
+    height: 700px;
     width: 600px;
     align-content: center;
     background-color: #fff;
@@ -19,16 +19,24 @@ box-shadow: 0px 0px 42px 6px rgba(40,57,84,1);
     height: 100px;
     text-align: center;
     font-size: 30px;
+
     margin: 0;
     padding: 0;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black; text-shadow: rgb(156, 217, 245) 0.1em 0.1em 0.2em
 }   
+.img_wa {
+    height: 50px;
+    margin: 0 20px;
+    width: 50px;
+    position: relative;
+  
+}
 
 .div_edad {
     text-align: center;
     font-size: 20px;
-    margin: 0;
+    margin: 20px 0;
     padding: 0;
     text-shadow: rgba(80, 250, 179, 0.411) 0.1em 0.1em 0.3em;
 }
